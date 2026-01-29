@@ -5,9 +5,9 @@
 </picture>
 
 <p align="left">
-  I'm a passionate third-year Software Engineering student with a strong interest in Java programming and full-stack web development.
+  I'm a passionate Year-4 Software Engineering undergraduate student with a strong interest in Java programming and full-stack web development.
   <br/>
-  🚀 Despite my ongoing studies toward a part-time degree, I am dedicated to pursuing a career as a Software Development Engineer (SDE).
+  🚀 Despite my ongoing studies toward a part-time degree, I am currently working as a full-time Software Engineer, continuously applying and sharpening my skills in a real-world professional environment.
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 - 🔭 I’m focusing on mastering AI engineering and advancing my skills in full-stack development.
 - 🌱 I love coding, always eager to learn and take on new challenges.
-- 📚 My fascination with coding sparked in 2017, leading me on a self-taught programming journey. I continued to nurture my passion through computer science studies during secondary school and am now in pursuit of a Bachelor in Software Engineering.
-- 🏢 I gained hands-on experience as a Web Developer Trainee (Dec19 - Apr20) and a Software Engineer Intern (Jun24 - Aug24).
-- ⚙️ I have a keen eye for applying best practices in coding styles, always striving to maintain clean and efficient code.
+- 📚 My fascination with coding sparked in 2017, leading me on a self-taught programming journey. I further developed this passion through Computer Science studies during secondary school and am now completing my Bachelor's degree in Software Engineering.
+- 🏢 I gained hands-on experience as a Web Developer Trainee (Dec19 - Apr20), a Software Engineer Intern (Jun24 - Aug24) and currently as a Full-time Software Engineer.
+- ⚙️ I have a keen eye for best practices in coding and always strive to write clean, maintainable, and efficient code.
 - 🎸 Outside of coding, you'll often find me strumming my guitar, exploring new melodies and tunes.
 - 👧 She/Her
 
